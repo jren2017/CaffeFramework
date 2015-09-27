@@ -1,0 +1,3 @@
+[submodule "Caffe/caffe"]
+	path = Caffe/caffe
+	url = https://github.com/timlenertz/caffe.git
